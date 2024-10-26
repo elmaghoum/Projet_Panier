@@ -1,5 +1,4 @@
-# Projet_Panier
-# Projet M1 Informatique - Génie Logiciel et Environnement Pro. 1
+# Projet M1 Informatique - Module Génie Logiciel et Environnement Pro. 1 - Université de Bourgogne - 2023/2024
 
 Ce projet a été réalisé dans le cadre du cours de "M1 Informatique - Génie Logiciel et Environnement Pro. 1 (GL1)" et est une application Java native qui tourne autour du concept d'un panier de fruits. 
 Le projet vise à proposer diverses fonctionnalités liées à la gestion de ce panier de fruits.
@@ -44,4 +43,4 @@ Pour utiliser ce projet, suivez les étapes suivantes :
 4. Tout est terminé ! Libre à vous d'explorez le code source, la documentation et les maquettes d'interface utilisateur de l'application.
 
 
-
+--- Novembre 2023
